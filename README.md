@@ -4,9 +4,9 @@
 I am a second-year computer science student at Constructor University, aspiring to become a proficient software engineer. 
 
 ## 🚀 What I'm Up To
--🤖 Exploring Software Engineering and Mobile Development
--💻 Currently working on BeatBond...
--🖐️ Love to collaborate
+- 🤖 Exploring Software Engineering and Mobile Development
+- 💻 Currently working on BeatBond...
+- 🖐️ Love to collaborate
 
 
 ## 🎓 Education:
