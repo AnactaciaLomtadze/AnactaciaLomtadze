@@ -13,9 +13,6 @@ I am a second-year computer science student at Constructor University, aspiring 
 - Bachelor's student at Constructor University
   - Major: Computer Science
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anactacia-lomtadze)
-
 # 💻 Tech Stack:
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
