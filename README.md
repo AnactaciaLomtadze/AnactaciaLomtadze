@@ -1,10 +1,10 @@
 <h1 align="center">Hi! I'm Anactacia 👋</h1>
 
 # 💫 About Me:
-I am a second-year computer science student at Constructor University, aspiring to become a proficient software engineer. 
+I am a second-year computer science student at Constructor University, aspiring to become a proficient software engineer, cybersecurity expert. 
 
 ## 🚀 What I'm Up To
-- 🤖 Exploring Software Engineering and Mobile Development
+- 🤖 Exploring Software Engineering, Mobile Development and cybersecurity
 - 💻 Currently working on BeatBond...
 - 🖐️ Love to collaborate
 
