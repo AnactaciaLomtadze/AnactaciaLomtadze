@@ -23,8 +23,6 @@ Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 
 
-## 🎯 Seeking Summer Internship Opportunities! 🌞
-I'm excited about innovative tech and ready to contribute! 🚀
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anactacia-lomtadze) 
